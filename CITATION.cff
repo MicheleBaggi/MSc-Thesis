@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Data Integration, Sensitivity Analysis and Inverse Problem Formulation for a Compartmental Colon Model"
+type: software
+authors:
+  - family-names: Baggi
+    given-names: Michele
+date-released: 2026-10-21
+repository-code: "https://github.com/MicheleBaggi/MSc-Thesis"
+keywords:
+  - gut microbiota
+  - compartmental model
+  - sensitivity analysis
+  - Sobol indices
+  - inverse problems
+  - Bayesian inference
+  - MCMC
+  - neural surrogate
+preferred-citation:
+  type: thesis
+  title: "Data Integration, Sensitivity Analysis and Inverse Problem Formulation for a Compartmental Colon Model"
+  authors:
+    - family-names: Baggi
+      given-names: Michele
+  institution:
+    name: "Politecnico di Milano"
+  thesis-type: "MSc thesis in Mathematical Engineering"
+  year: 2026
