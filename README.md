@@ -104,17 +104,3 @@ The model reproduces each sample **an order of magnitude more closely** than sub
 3. S. Raguideau, S. Plancade, N. Pons, M. Leclerc, B. Laroche. *Inferring aggregated functional traits from metagenomic data using constrained non-negative matrix factorization: application to fiber degradation in the human gut microbiota.* PLoS Computational Biology, 12(12):e1005252, 2016.
 4. A. Saltelli, P. Annoni, I. Azzini, F. Campolongo, M. Ratto, S. Tarantola. *Variance based sensitivity analysis of model output. Design and estimator for the total sensitivity index.* Computer Physics Communications, 181(2):259–270, 2010.
 5. C. J. F. ter Braak, J. A. Vrugt. *Differential evolution Markov chain with snooker updater and fewer chains.* Statistics and Computing, 18(4):435–446, 2008.
-
-## Citation
-
-If you use this work, please cite it as:
-
-```bibtex
-@mastersthesis{baggi2026colon,
-  author = {Baggi, Michele},
-  title  = {Data Integration, Sensitivity Analysis and Inverse Problem Formulation for a Compartmental Colon Model},
-  school = {Politecnico di Milano},
-  year   = {2026},
-  type   = {MSc thesis in Mathematical Engineering}
-}
-```
