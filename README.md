@@ -11,6 +11,7 @@
 
 | Document | Description |
 | --- | --- |
+| [Full thesis](docs/Baggi_MSc_Thesis.pdf) | Complete thesis manuscript |
 | [Executive summary](docs/Baggi_MSc_Thesis_Executive_Summary.pdf) | 6-page summary of the thesis |
 | [Presentation slides](docs/Baggi_MSc_Thesis_Presentation.pdf) | Slides from the thesis defence, with technical appendix |
 
