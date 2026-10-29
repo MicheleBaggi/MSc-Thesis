@@ -2,9 +2,9 @@
 
 **MSc Thesis in Mathematical Engineering** · Politecnico di Milano · Academic year 2025–2026
 
-**Author:** Michele Baggi
-**Advisor:** Prof. Paola Francesca Antonietti (Politecnico di Milano, MOX)
-**Co-advisors:** Béatrice Laroche, Lorenzo Sala (INRAE, MaIAGE, Université Paris-Saclay, Dynenvie team)
+**Author:** Michele Baggi\
+**Advisor:** Prof. Paola Francesca Antonietti (Politecnico di Milano, MOX)\
+**Co-advisors:** Béatrice Laroche, Lorenzo Sala (INRAE, MaIAGE, Université Paris-Saclay, Dynenvie team)\
 **Defence:** 21 October 2026
 
 ## Documents
